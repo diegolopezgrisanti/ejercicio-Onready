@@ -1,0 +1,30 @@
+[
+    {
+        "marca": "Peugeot",
+        "modelo": "206",
+        "puertas": 4,
+        "cilindrada": null,
+        "precio": 200000
+    },
+    {
+        "marca": "Honda",
+        "modelo": "Titan",
+        "puertas": null,
+        "cilindrada": "125c",
+        "precio": 60000
+    },
+    {
+        "marca": "Peugeot",
+        "modelo": "208",
+        "puertas": 5,
+        "cilindrada": null,
+        "precio": 250000
+    },
+    {
+        "marca": "Yamaha",
+        "modelo": "YBR",
+        "puertas": null,
+        "cilindrada": "160c",
+        "precio": 80500.5
+    }
+]
